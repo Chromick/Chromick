@@ -4,11 +4,8 @@
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chromick&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chromick&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chromick&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chromick&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF" alt="Top Languages" height="180em"/>
 </p>
 
 ### 🚀 Sobre mim
