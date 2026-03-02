@@ -22,7 +22,7 @@
 <!-- Sobre mim -->
 <div align="center">
   <h2>🚀 About Me</h2>
-  <p>🎓 Software Engineering Student – currently in <b>5th semester</b></p>
+  <p>🎓 Software Engineering Student – currently in <b>6th semester</b></p>
   <p>💡 Proactive and always looking for new challenges and learning opportunities</p>
   <p>⚡ Passionate about technology and transforming ideas into real solutions</p>
 </div>
